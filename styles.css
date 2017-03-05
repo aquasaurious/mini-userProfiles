@@ -1,3 +1,9 @@
 .favorite {
     background-color: lightblue
 }
+
+.profile {
+    display: inline;
+    justify-content: center;
+    margin: 0 auto;
+}
